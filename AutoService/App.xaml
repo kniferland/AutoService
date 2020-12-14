@@ -5,27 +5,27 @@
              StartupUri="Views/Windows/MainWindow.xaml">
     <Application.Resources>
         <Style TargetType="TextBox">
-            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="Width" Value="150"/>
         </Style>
         <Style TargetType="TextBlock">
-            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
             <Setter Property="Margin" Value="5"/>
 
         </Style>
         <Style TargetType="Button">
-            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="Width" Value="150"/>
         </Style>
         <Style TargetType="ComboBox">
-            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="Width" Value="150"/>
         </Style>
         <Style TargetType="DatePicker">
-            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontFamily" Value="Tw Cen MT"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="Width" Value="150"/>
         </Style>
