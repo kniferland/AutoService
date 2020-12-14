@@ -52,7 +52,7 @@ namespace AutoService.Models
                 }
             }
         }
-
+        
         public byte[] Img
         {
             get
