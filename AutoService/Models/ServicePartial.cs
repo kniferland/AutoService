@@ -44,7 +44,7 @@ namespace AutoService.Models
             {
                 if (Discount != 0)
                 {
-                    return "#ffffe1";
+                    return "#ff9c1a";
                 }
                 else
                 {
