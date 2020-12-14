@@ -80,7 +80,7 @@ namespace AutoService.Views.Windows
 
         private void TimeStartBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
-
+            
         }
     }
 }
