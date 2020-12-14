@@ -11,15 +11,15 @@
     <Grid>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
             <StackPanel Orientation="Horizontal">                
-                <Image Width="70" Height="70" Source="/Resources/service_logo.png"/>
+                <Image  Width="70" Height="70" Source="pack://siteoforigin:,,,/Resources/service_logo.png"/>
             </StackPanel>
         </StackPanel>
         
-        <StackPanel>
+        <StackPanel HorizontalAlignment="Center" Margin="280 100 220 200">
             
             <DockPanel LastChildFill="False"/>
             
-            <TextBlock Margin="300,100,200,20" Height="30"><Run Text="Добро пожаловать в &quot;Подай на 16&quot;"/></TextBlock>
+            <TextBlock Height="100" Width="400"><Run Text="Добро пожаловать в &quot;Подай на 16&quot;"/></TextBlock>
 
         </StackPanel>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">

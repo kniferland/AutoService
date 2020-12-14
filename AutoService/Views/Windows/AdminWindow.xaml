@@ -21,7 +21,7 @@
                 <DataGridTextColumn Header="Email" Binding="{Binding Client.Email}"/>
                 <DataGridTextColumn Header="Телефон" Binding="{Binding Client.Phone}"/>
                 <DataGridTextColumn Header="Дата и время записи" Binding="{Binding StartTime}"/>
-                <DataGridTemplateColumn Header="Время до начала:">
+                <DataGridTemplateColumn Width="200" Header="Время до начала:">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
                             <TextBlock Foreground="{Binding сolor}" Text="{Binding TimeStart}"/>
