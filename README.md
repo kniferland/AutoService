@@ -24,5 +24,5 @@ Microsoft Visual Studio 2019
 
 ## Авторы
 
-* **Гордеев Владислав** - (https://github.com/PurpleBooth)
+* **Гордеев Владислав** - (https://github.com/kniferland/)
 2020.12
