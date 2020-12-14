@@ -19,7 +19,7 @@
             
             <DockPanel LastChildFill="False"/>
             
-            <TextBlock Margin="300,100,200,20" Height="30"><Run Text="Добро пожаловать в &quot;Автосервис&quot;"/></TextBlock>
+            <TextBlock Margin="300,100,200,20" Height="30"><Run Text="Добро пожаловать в &quot;Подай на 16&quot;"/></TextBlock>
 
         </StackPanel>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
