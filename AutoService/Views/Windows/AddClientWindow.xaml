@@ -26,11 +26,11 @@
                 <DatePicker Name="DataPickerBox" DockPanel.Dock="Right"/>
             </DockPanel>
             <DockPanel LastChildFill="False">
-                <TextBlock DockPanel.Dock="Left">Время начала занятия</TextBlock>
+                <TextBlock DockPanel.Dock="Left">Время начала </TextBlock>
                 <TextBox Name="TimeStartBox" LostFocus="TimeStartBox_LostFocus" DockPanel.Dock="Right" PreviewTextInput="TimeStartBox_PreviewTextInput"/>
             </DockPanel>
             <DockPanel LastChildFill="False">
-                <TextBlock DockPanel.Dock="Left">Время окончания занятия</TextBlock>
+                <TextBlock DockPanel.Dock="Left">Время окончания </TextBlock>
                 <TextBlock Name="TimeEndBox" DockPanel.Dock="Right"/>
             </DockPanel>
             <DockPanel LastChildFill="False">
