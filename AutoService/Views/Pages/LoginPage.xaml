@@ -9,8 +9,16 @@
       Title="Страница авторизации">
 
     <Grid>
-        <StackPanel >
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">                
+                <Image Width="70" Height="70" Source="/Resources/service_logo.png"/>
+            </StackPanel>
+        </StackPanel>
+        
+        <StackPanel>
+            
             <DockPanel LastChildFill="False"/>
+            
             <TextBlock Margin="300,100,200,20" Height="30"><Run Text="Добро пожаловать в &quot;Автосервис&quot;"/></TextBlock>
 
         </StackPanel>
